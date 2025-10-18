@@ -4,13 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=45&fontColor=39FF14&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=45&fontColor=FFD700&fontAlignY=35&font=Great+Vibes" />
 </p>
 
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
 </p>
 
 
