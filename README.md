@@ -5,21 +5,14 @@
 
 <!-- 🌊 Waving header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
+
 
 <!-- 🖋 Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
 </p>
-
-<!-- 👁️ Profile views (qizil + dengiz rangli badge) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akmalgafurov&color=ff0000&labelColor=00C9FF&style=for-the-badge&label=Profile+Views" />
-</p>
-
-
-
 
 
 
