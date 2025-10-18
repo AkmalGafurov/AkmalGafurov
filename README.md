@@ -13,10 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
 </p>
 
-<!-- 💓 Heart animation (100% working SVG) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/heart.svg" width="120" />
-</p>
 
 
 
