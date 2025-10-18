@@ -9,8 +9,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=8B0000&center=true&vCenter=true&width=500&height=60&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
 </p>
+
 
 
 
