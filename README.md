@@ -10,6 +10,11 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 
+
+## 📊 GitHub Stats
+![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalgafurov&show_icons=true&theme=tokyonight)
+
+
 <!--
 **AkmalGafurov/AkmalGafurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
