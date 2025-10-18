@@ -5,18 +5,19 @@
 
 <!-- 🌊 Waving header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <!-- 🖋 Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Python+Developer;PostgreSQL+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
 </p>
 
-<!-- 💓 Heart animation -->
+<!-- 💓 Heart animation (100% working SVG) -->
 <p align="center">
-  <img src="https://media.tenor.com/X7lKx7z6X7YAAAAi/heart-love.gif" width="120">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/heart.svg" width="120" />
 </p>
+
 
 
 
