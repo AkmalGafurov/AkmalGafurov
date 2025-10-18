@@ -5,7 +5,7 @@
 
 <!-- 🌊 Waving header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi,+I'm+User!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- 🖋 Typing animation -->
