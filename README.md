@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=✨Hi,+I'm+Akmal!✨&fontSize=40&fontColor=FFD700&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=FFF44F&fontAlignY=35" />
 </p>
+
 
 
 
