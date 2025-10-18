@@ -3,11 +3,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YW51c3ViNmx4Z3VkbWNtdjZzZXliOHRyeHk2a3RneTNidmdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efH7XxDUwCuIRcaLyD/giphy.gif" alt="Project demo" width="400"/>
 </p>
 
+<!-- 🌊 Orqa fon -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20I'm%20Akmal!&width=800&height=200&color1=FFD700&color2=00C9FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&fontColor=39FF14&text=" />
 </p>
 
-
+<!-- ✍️ Yozuv (Typing uslubida, shrift o'zgaradi) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi,+I'm+Akmal!;Python+Developer;PostgreSQL+Learner" />
+</p>
 
 
 
