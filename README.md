@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YW51c3ViNmx4Z3VkbWNtdjZzZXliOHRyeHk2a3RneTNidmdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efH7XxDUwCuIRcaLyD/giphy.gif" alt="Project demo" width="400"/>
 </p>
 
-<!-- 🌊 Waving header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:00C9FF,100:FF1493&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=40&fontColor=FFD700&fontAlignY=35" />
 </p>
+
 
 
 <!-- 🖋 Typing animation -->
