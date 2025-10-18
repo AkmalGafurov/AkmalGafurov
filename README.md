@@ -10,12 +10,12 @@
 
 <!-- 🖋 Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Python+Developer;PostgreSQL+Learner;Made+with+❤️+for+Code!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Python+Developer;PostgreSQL+Learner" />
 </p>
 
 <!-- 💓 Heart animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1G8vVx5g8pD3K/giphy.gif" width="120">
+  <img src="https://media.tenor.com/4QZsPqMYsVIAAAAj/heart-love.gif" width="120">
 </p>
 
 
