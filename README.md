@@ -3,17 +3,21 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YW51c3ViNmx4Z3VkbWNtdjZzZXliOHRyeHk2a3RneTNidmdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efH7XxDUwCuIRcaLyD/giphy.gif" alt="Project demo" width="400"/>
 </p>
 
+<!-- 🌊 Waving header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi+I'm+Akmal!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Hi,+I'm+User!&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- 🖋 Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Python+Developer;Game+Dev+Learner;SQL+Enthusiast;Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Python+Developer;PostgreSQL+Learner;Made+with+❤️+for+Code!" />
 </p>
 
+<!-- 💓 Heart animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/efH7XxDUwCuIRcaLyD/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/l3vR1G8vVx5g8pD3K/giphy.gif" width="120">
 </p>
+
 
 
 ## 🛠️ Technologies & Tools
