@@ -15,7 +15,7 @@
 
 <!-- 💓 Heart animation -->
 <p align="center">
-  <img src="https://media.tenor.com/4QZsPqMYsVIAAAAj/heart-love.gif" width="120">
+  <img src="https://media.tenor.com/X7lKx7z6X7YAAAAi/heart-love.gif" width="120">
 </p>
 
 
