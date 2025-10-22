@@ -9,23 +9,19 @@
 
 
 
-
-### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,linux,vscode&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=8B0000&center=true&vCenter=true&width=500&height=60&lines=💻+Python+Developer;🧩+PostgreSQL+Learner;🔥+Always+Learning+New+Things!" />
 </p>
 
 
 
 
 
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,linux,vscode&theme=dark" />
+</p>
 
-
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 
 
