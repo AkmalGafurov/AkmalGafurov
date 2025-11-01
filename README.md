@@ -1,7 +1,11 @@
 ## Hi Everybody 👋
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YW51c3ViNmx4Z3VkbWNtdjZzZXliOHRyeHk2a3RneTNidmdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efH7XxDUwCuIRcaLyD/giphy.gif" alt="Project demo" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000"/>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00C9FF&height=120&section=header&text=Hi,+I'm+Akmal!&fontSize=45&fontColor=FFD700&fontAlignY=35&font=Lobster" />
